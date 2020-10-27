@@ -1,0 +1,1 @@
+instance_create_layer(300,300,layer,obj_boss_beam);

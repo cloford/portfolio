@@ -1,0 +1,2 @@
+/// @description hideoutにinventoryを反映
+

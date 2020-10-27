@@ -1,0 +1,16 @@
+ID,name,object,idle_AI,speed,eyesight,eye_AI,hearing_power,hear_AI,attack_AI
+1,Enemy_1,obj_enemy_1,1,3,320,angle,1,look,keep_dist
+2,Rifle man,obj_enemy_rifleman,1,3,320,angle,1,look,keep_dist
+3,Swamp man,obj_enemy_swampman,2,15,30,touch,1.5,go_point,stand
+4,Slender man,obj_enemy_bigblade,2,15,30,touch,1.5,go_point,stand
+5,Enemy_5,obj_enemy_1,0,5,480,angle,1,look,keep_dist
+6,,obj_enemy_1,0,5,320,angle,1,look,keep_dist
+7,,obj_enemy_1,3,5,320,angle,1,look,keep_dist
+8,,obj_enemy_1,3,5,320,angle,1,look,keep_dist
+9,,obj_enemy_1,3,0,320,angle,1,look,keep_dist
+10,,obj_enemy_1,3,0,320,angle,1,look,keep_dist
+11,,obj_enemy_1,3,0,320,angle,1,look,keep_dist
+12,,obj_enemy_1,3,0,320,angle,1,look,keep_dist
+13,,obj_enemy_1,3,0,320,angle,1,look,keep_dist
+14,,obj_enemy_1,3,0,320,angle,1,look,keep_dist
+15,,obj_enemy_1,3,0,320,angle,1,look,keep_dist

@@ -1,0 +1,1 @@
+/// @description ジャンク無し
